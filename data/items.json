@@ -36,6 +36,19 @@
   },
   "items": [
     {
+      "id": "lnc-legales:7a1c9a77d8515503",
+      "sourceId": "lnc-legales",
+      "kind": "consultation",
+      "title": "La Commune de Pouébo lance un appel d'offres ouvert pour l'exploitation du service de transport scolaire sur son territoire pour l'année scolaire 2027.",
+      "summary": "La Commune de Pouébo lance un appel d'offres ouvert pour l'exploitation du service de transport scolaire sur son territoire pour l'année scolaire 2027. Le marché prendra effet à compter du 15 février 2027 et s'achèvera à la fin de l'année scolaire 2027. Il pourra faire l'objet de reconductions conformément aux dispositions du contrat dès l'attribution des lots. Le marché est décomposé en huit lots géographiques. Le dossier de consultation est mis gratuitement à disposition des candidats.  Parution de l'avis aux annonces légales : lundi 23 novembre 2026  Mise à disposition du DCE et ouverture des questions : à compter du 23 novembre 2026 Retrait du dossier et demandes de renseignements : Les demandes de retrait du dossier ainsi que toutes les questions relatives à la consultation doivent être adressées par courrier électronique à : s.general@mairie-pouebo.nc Le délais limite des questions est fixé au mardi 8 décembre 2026 à 15h00. Les dossiers de consultations pourront aussi être retirés en mairie auprès du secrétariat général de la commune. Date limite de remise des offres : Lundi 14 décembre 2026 à 16h00 Toute offre parvenue hors délai sera rejetée. Les modalités de présentation",
+      "buyer": "COMMUNE DE POUEBO",
+      "url": "https://legales.lnc.nc/annonce/commune-de-pouebo-23-11-2026-31971",
+      "publishedAt": "2026-11-23T00:00:00+11:00",
+      "deadline": "2026-12-14T16:00:00+11:00",
+      "firstSeen": "2026-11-22T17:56:09.879Z",
+      "lastSeen": "2026-11-22T17:56:09.879Z"
+    },
+    {
       "id": "lexpol-marches:ca96adba132aac99",
       "sourceId": "lexpol-marches",
       "kind": "consultation",
@@ -1123,7 +1136,7 @@
       "url": "https://legales.lnc.nc/annonce/province-nord-dassps-direction-des-affaires-sanitaires-et-sociales-et-des-problemes-de-societe-13-11-2026-31802",
       "publishedAt": "2026-11-13T00:00:00+11:00",
       "firstSeen": "2026-11-16T04:09:45.070Z",
-      "lastSeen": "2026-11-19T07:40:47.323Z"
+      "lastSeen": "2026-11-22T17:56:09.879Z"
     },
     {
       "id": "lnc-legales:844d5dfb58ffe2b8",
