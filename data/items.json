@@ -36,6 +36,107 @@
   },
   "items": [
     {
+      "id": "province-nord:5e9dcce302158860",
+      "sourceId": "province-nord",
+      "kind": "consultation",
+      "title": "Travaux de sécurisation de la route provinciale n° 3 dans la commune de Kouaoua",
+      "reference": "2026/059",
+      "buyer": "Province Nord",
+      "nature": "Travaux",
+      "status": "Ouvert",
+      "url": "https://marchespublics.province-nord.nc/sallemarche.aspx",
+      "publishedAt": "2026-11-23T08:00:00+11:00",
+      "deadline": "2026-12-14T15:00:00+11:00",
+      "firstSeen": "2026-11-22T23:42:07.842Z",
+      "lastSeen": "2026-11-22T23:42:07.842Z"
+    },
+    {
+      "id": "lnc-legales:04e88c4077d661cf",
+      "sourceId": "lnc-legales",
+      "kind": "consultation",
+      "title": "MISSION DE MAITRISE D’ŒUVRE POUR La RÉFECTION des FAÇADES DOUBLE-PEAU de la RÉSIDENCE UNIVERSITAIRE DE NOUVILLE (UNC 500)",
+      "summary": "MISSION DE MAITRISE D’ŒUVRE POUR La RÉFECTION des FAÇADES DOUBLE-PEAU de la RÉSIDENCE UNIVERSITAIRE DE NOUVILLE (UNC 500) La S...",
+      "buyer": "SOCIETE IMMOBILIERE DE NOUVELLE CALEDONIE",
+      "url": "https://legales.lnc.nc/annonce/societe-immobiliere-de-nouvelle-caledonie-23-11-2026-31997",
+      "publishedAt": "2026-11-23T00:00:00+11:00",
+      "firstSeen": "2026-11-22T23:41:15.418Z",
+      "lastSeen": "2026-11-22T23:41:15.418Z"
+    },
+    {
+      "id": "lnc-legales:e9323418cc151456",
+      "sourceId": "lnc-legales",
+      "kind": "consultation",
+      "title": "La province Nord informe les personnes intéressées qu'elle lance u...",
+      "summary": "Appels d’offres , publié dans Marchés publics Province Nord le 23/11/2026 PROVINCE NORD RÉPUBLIQUE FRANCAISE Nouvelle-Calédonie PROVINCE NORD&nbsp; BP 41 — 98860 — KONE Tel. : 47.71.00&nbsp;AVIS D'APPEL A CONSULTATION&nbsp; La province Nord informe les personnes intéressées qu' ... Lire la suite",
+      "buyer": "PROVINCE NORD",
+      "url": "https://legales.lnc.nc/annonce/province-nord-23-11-2026-31996",
+      "publishedAt": "2026-11-23T00:00:00+11:00",
+      "firstSeen": "2026-11-22T23:41:15.418Z",
+      "lastSeen": "2026-11-22T23:41:15.418Z"
+    },
+    {
+      "id": "lnc-legales:363a9789ce22ec15",
+      "sourceId": "lnc-legales",
+      "kind": "consultation",
+      "title": "AO Logiciel-GTT CHT-CHS-CHN Fourniture, mise en service, formation et maintenance d'un logiciel de gestion du temps de travail, ...",
+      "summary": "AO_Logiciel-GTT _CHT-CHS-CHN Fourniture, mise en service, formation et maintenance d'un logiciel de gestion du temps de travail, ...",
+      "buyer": "Centre Hospitalier Territorial Gaston Bourret",
+      "url": "https://legales.lnc.nc/annonce/centre-hospitalier-territorial-gaston-bourret-23-11-2026-31995",
+      "publishedAt": "2026-11-23T00:00:00+11:00",
+      "firstSeen": "2026-11-22T23:41:15.418Z",
+      "lastSeen": "2026-11-22T23:41:15.418Z"
+    },
+    {
+      "id": "lnc-legales:10f79043eeb18afb",
+      "sourceId": "lnc-legales",
+      "kind": "consultation",
+      "title": "Travaux d’aménagement en vue de la rétrocession à la collectivité des espaces publics du lotissement les Palmiers III – dans le quartier de Koutio, sur la Commune de Du...",
+      "summary": "Fonds Social de l'Habitat",
+      "buyer": "Fonds Social de l'Habitat",
+      "url": "https://legales.lnc.nc/annonce/fonds-social-de-lhabitat-23-11-2026-31987",
+      "publishedAt": "2026-11-23T00:00:00+11:00",
+      "firstSeen": "2026-11-22T23:41:15.418Z",
+      "lastSeen": "2026-11-22T23:41:15.418Z"
+    },
+    {
+      "id": "marchespublics-nc:h7u-3561",
+      "sourceId": "marchespublics-nc",
+      "kind": "consultation",
+      "title": "AUDIT TECHNIQUE DES INSTALLATIONS DE L'AQUEDUC DE LA TONTOUTA EN VUE DU RENOUVELLEMENT DU CONTRAT DE GESTION DU SERVICE PUBLIC D'EAU DU",
+      "summary": "audit technique des installations de l'Aqueduc de la Tontouta, dont les conclusions seront jointes au dossier de consultation du futur contrat de gestion du service public d'eau du SIGN.",
+      "reference": "C26S05",
+      "buyer": "Syndicat Intercommunal du Grand Nouméa",
+      "buyerLocation": "Dumbéa",
+      "location": "Province Sud",
+      "nature": "Services",
+      "procedure": "Procédure simplifiée",
+      "procedureCode": "SIMP",
+      "url": "https://portail.marchespublics.nc/entreprise/consultation/3561?orgAcronyme=h7u",
+      "publishedAt": "2026-11-23T00:00:00+11:00",
+      "deadline": "2026-12-21T12:00:00+11:00",
+      "firstSeen": "2026-11-22T23:40:43.252Z",
+      "lastSeen": "2026-11-22T23:40:43.252Z"
+    },
+    {
+      "id": "marchespublics-nc:f4g-3563",
+      "sourceId": "marchespublics-nc",
+      "kind": "consultation",
+      "title": "ETUDE D’OPPORTUNITE – PREFAISABILITE POUR LA LIAISON ROUTIERE DUCOS – KOUTIO : RACCORDEMENT COTE DUMBEA",
+      "summary": "La province Sud lance une consultation pour la réalisation des études d’opportunité et de pré-faisabilité de la liaison routière Ducos – Koutio et de son point de raccordement côté Dumbéa.",
+      "reference": "CS-05-26",
+      "buyer": "Province Sud",
+      "buyerLocation": "Nouméa",
+      "location": "Province Sud",
+      "nature": "Travaux",
+      "procedure": "Procédure Autre (Subvention, Appel à projets, Délégation de service public)",
+      "procedureCode": "AUT",
+      "url": "https://portail.marchespublics.nc/entreprise/consultation/3563?orgAcronyme=f4g",
+      "publishedAt": "2026-11-23T00:00:00+11:00",
+      "deadline": "2026-12-14T15:30:00+11:00",
+      "firstSeen": "2026-11-22T23:40:43.252Z",
+      "lastSeen": "2026-11-22T23:40:43.252Z"
+    },
+    {
       "id": "lnc-legales:7a1c9a77d8515503",
       "sourceId": "lnc-legales",
       "kind": "consultation",
@@ -584,7 +685,9 @@
       "publishedAt": "2026-11-18T00:00:00+11:00",
       "deadline": "2026-11-23T08:00:00+11:00",
       "firstSeen": "2026-11-18T16:36:15.061Z",
-      "lastSeen": "2026-11-22T02:23:05.740Z"
+      "lastSeen": "2026-11-22T02:23:05.740Z",
+      "gone": true,
+      "goneAt": "2026-11-22T23:40:43.252Z"
     },
     {
       "id": "lexpol-marches:74c00277f8985001",
@@ -1618,9 +1721,18 @@
       "status": "Ouvert",
       "url": "https://marchespublics.province-nord.nc/sallemarche.aspx",
       "publishedAt": "2026-11-10T15:30:00+11:00",
-      "deadline": "2026-11-30T15:30:00+11:00",
+      "deadline": "2026-12-10T15:30:00+11:00",
       "firstSeen": "2026-11-10T12:01:00.481Z",
-      "lastSeen": "2026-11-15T01:28:57.802Z"
+      "lastSeen": "2026-11-22T23:42:07.842Z",
+      "updatedAt": "2026-11-22T23:42:07.842Z",
+      "history": [
+        {
+          "at": "2026-11-22T23:42:07.842Z",
+          "field": "deadline",
+          "from": "2026-11-30T15:30:00+11:00",
+          "to": "2026-12-10T15:30:00+11:00"
+        }
+      ]
     },
     {
       "id": "lexpol-marches:291b77ffb26addb4",
