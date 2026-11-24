@@ -31,9 +31,9 @@ test('bandeau : « Les outils », un filet puis le logo, en derniers éléments'
   assert.equal(header.find('.header-actions').is(header.find('.header-inner').children().last()), true);
 });
 
-test('bandeau : le lien « Les outils » mène à https://gharel.github.io/home/, dans le même onglet', () => {
+test('bandeau : le lien « Les outils » mène à https://gharel.github.io/pro/, dans le même onglet', () => {
   const tools = header.find('a.tools-link');
-  assert.equal(tools.attr('href'), 'https://gharel.github.io/home/');
+  assert.equal(tools.attr('href'), 'https://gharel.github.io/pro/');
   assert.equal(tools.attr('target'), undefined);
   assert.equal(tools.attr('title'), 'Tous les outils Skazy Formation');
   assert.equal(tools.find('.tools-text').text().trim(), 'Les outils');

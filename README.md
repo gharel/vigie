@@ -18,7 +18,7 @@ Chaque outil Skazy Formation a sa couleur de l’arc-en-ciel, dans cet ordre : 
 
 - la pastille et le nom « Vigie » forment un seul lien vers les annonces (`aria-current="page"` quand elles sont affichées) ;
 - au milieu et à droite, la navigation et les actions de Vigie (onglets, état de la veille, thème) ;
-- en derniers éléments : le lien « Les outils » vers <https://gharel.github.io/home/> (même onglet), avec la roue des outils copiée dans `site/assets/img/les-outils.svg`, réduit à la roue sous 1 100 px de large (le texte reste le nom accessible) ; un filet ; puis le logo Skazy Formation, lien vers <https://formation.skazy.nc> dans un nouvel onglet (36 px de haut sur grand écran, 32 px sur tablette, 30 px sur téléphone).
+- en derniers éléments : le lien « Les outils » vers <https://gharel.github.io/pro/> (même onglet), avec la roue des outils copiée dans `site/assets/img/les-outils.svg`, réduit à la roue sous 1 100 px de large (le texte reste le nom accessible) ; un filet ; puis le logo Skazy Formation, lien vers <https://formation.skazy.nc> dans un nouvel onglet (36 px de haut sur grand écran, 32 px sur tablette, 30 px sur téléphone).
 
 L’écran de mot de passe reprend cette signature (pastille, Vigie, filet, logo). Sur toutes les vues, un bouton rond « Remonter en haut » apparaît en bas à droite après un écran de défilement, au-dessus de la barre d’onglets sur téléphone.
 
