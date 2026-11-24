@@ -36,6 +36,25 @@
   },
   "items": [
     {
+      "id": "marchespublics-nc:f4g-3571",
+      "sourceId": "marchespublics-nc",
+      "kind": "consultation",
+      "title": "ENTRETIEN DE LA SIGNALISATION VERTICALE ET DIRECTIONNELLE SUR LES VOIES EXPRESS DE LA PROVINCE SUD",
+      "summary": "La province Sud lance une consultation relative à l'entretien de la signalisation verticale et directionnelle des voies express de la province Sud pour le compte de la province Sud, maître de l’ouvrage. L’opération consiste à entretenir la signalisation verticale et directionnelles sur les voies express de la province sud au moyen de matériel adapté.",
+      "reference": "DAEM-APC-28-26",
+      "buyer": "Province Sud",
+      "buyerLocation": "Nouméa",
+      "location": "Province Sud",
+      "nature": "Travaux",
+      "procedure": "Procédure Autre (Subvention, Appel à projets, Délégation de service public)",
+      "procedureCode": "AUT",
+      "url": "https://portail.marchespublics.nc/entreprise/consultation/3571?orgAcronyme=f4g",
+      "publishedAt": "2026-11-25T00:00:00+11:00",
+      "deadline": "2026-12-14T15:30:00+11:00",
+      "firstSeen": "2026-11-24T21:57:56.850Z",
+      "lastSeen": "2026-11-24T21:57:56.850Z"
+    },
+    {
       "id": "lexpol-marches:94810a0ba9ad6717",
       "sourceId": "lexpol-marches",
       "kind": "consultation",
