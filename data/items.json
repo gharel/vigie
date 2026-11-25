@@ -68,6 +68,33 @@
       "lastSeen": "2026-11-25T00:57:03.055Z"
     },
     {
+      "id": "province-sud-avis:52b5be86c37e7441",
+      "sourceId": "province-sud-avis",
+      "kind": "consultation",
+      "title": "Avis d’appel public a concurrence n° DAEM-APC-28-26 – Entretien de la signalisation vert...",
+      "reference": "DAEM-APC-28-26",
+      "url": "https://www.province-sud.nc/aops/apc/daem-apc-28-26/",
+      "publishedAt": "2026-11-25T00:00:00+11:00",
+      "deadline": "2026-12-14T00:00:00+11:00",
+      "firstSeen": "2026-11-25T02:27:15.392Z",
+      "lastSeen": "2026-11-25T02:27:15.392Z"
+    },
+    {
+      "id": "province-nord:19c88c53bbb543e5",
+      "sourceId": "province-nord",
+      "kind": "consultation",
+      "title": "Fourniture et livraison de gazole en vrac pour les besoins propres des services techniques de la commune de Vook (Voh) pour la période 2027-2030",
+      "reference": "01.F.2026",
+      "buyer": "Commune de Vook (Voh)",
+      "nature": "Fourniture",
+      "status": "Ouvert",
+      "url": "https://marchespublics.province-nord.nc/sallemarche.aspx",
+      "publishedAt": "2026-11-25T00:00:00+11:00",
+      "deadline": "2026-12-23T12:00:00+11:00",
+      "firstSeen": "2026-11-25T02:27:12.310Z",
+      "lastSeen": "2026-11-25T02:27:12.310Z"
+    },
+    {
       "id": "lnc-legales:a6238cd453be59d0",
       "sourceId": "lnc-legales",
       "kind": "consultation",
