@@ -68,6 +68,21 @@
       "lastSeen": "2026-11-25T00:57:03.055Z"
     },
     {
+      "id": "province-nord:74fe2233e7d718b1",
+      "sourceId": "province-nord",
+      "kind": "consultation",
+      "title": "FOUNITURE D'UN BULLDOZER SUR CHENILLES NEUF",
+      "reference": "02.F.2026",
+      "buyer": "Commune de Vook (Voh)",
+      "nature": "Fourniture",
+      "status": "Ouvert",
+      "url": "https://marchespublics.province-nord.nc/sallemarche.aspx",
+      "publishedAt": "2026-11-25T00:00:00+11:00",
+      "deadline": "2027-01-13T11:00:00+11:00",
+      "firstSeen": "2026-11-25T04:46:49.097Z",
+      "lastSeen": "2026-11-25T04:46:49.097Z"
+    },
+    {
       "id": "province-sud-avis:52b5be86c37e7441",
       "sourceId": "province-sud-avis",
       "kind": "consultation",
@@ -6002,7 +6017,9 @@
           "from": "2026-11-16T15:30:00+11:00",
           "to": "2026-11-25T15:30:00+11:00"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-25T04:45:41.168Z"
     },
     {
       "id": "marchespublics-nc:f6m-3501",
