@@ -4455,9 +4455,18 @@
       "procedureCode": "AOO",
       "url": "https://www.marches-publics.gouv.fr/app.php/entreprise/consultation/3087414?orgAcronyme=f2h",
       "publishedAt": "2026-10-28T00:00:00+11:00",
-      "deadline": "2026-11-25T19:00:00+11:00",
+      "deadline": "2026-12-02T19:00:00+11:00",
       "firstSeen": "2026-10-28T14:48:49.245Z",
-      "lastSeen": "2026-11-25T00:57:27.814Z"
+      "lastSeen": "2026-11-25T00:57:27.814Z",
+      "updatedAt": "2026-11-25T20:02:52.942Z",
+      "history": [
+        {
+          "at": "2026-11-25T20:02:52.942Z",
+          "field": "deadline",
+          "from": "2026-11-25T19:00:00+11:00",
+          "to": "2026-12-02T19:00:00+11:00"
+        }
+      ]
     },
     {
       "id": "lnc-legales:c0dfa5dd0ac02a9d",
