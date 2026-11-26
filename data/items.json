@@ -937,9 +937,7 @@
       "publishedAt": "2026-11-20T00:00:00+11:00",
       "deadline": "2026-11-26T11:30:00+11:00",
       "firstSeen": "2026-11-25T09:59:36.400Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:40c8cb5d9f6a52fd",
@@ -952,9 +950,7 @@
       "publishedAt": "2026-11-20T00:00:00+11:00",
       "deadline": "2026-11-26T11:30:00+11:00",
       "firstSeen": "2026-11-25T09:59:36.400Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:4831e793897e8978",
@@ -980,7 +976,9 @@
       "publishedAt": "2026-11-20T00:00:00+11:00",
       "deadline": "2026-11-26T11:30:00+11:00",
       "firstSeen": "2026-11-20T17:57:19.100Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:324544a3f03736b2",
@@ -993,7 +991,9 @@
       "publishedAt": "2026-11-20T00:00:00+11:00",
       "deadline": "2026-11-26T11:30:00+11:00",
       "firstSeen": "2026-11-20T17:57:19.100Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:7d09acf47bb0cebd",
@@ -2704,9 +2704,7 @@
       "publishedAt": "2026-11-09T00:00:00+11:00",
       "deadline": "2026-12-16T11:30:00+11:00",
       "firstSeen": "2026-11-25T09:59:36.400Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:d57e0b7c85906cc2",
@@ -2832,7 +2830,9 @@
       "publishedAt": "2026-11-09T00:00:00+11:00",
       "deadline": "2026-12-16T11:30:00+11:00",
       "firstSeen": "2026-11-08T21:34:29.358Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "marchespublics-nc:s3d-3534",
@@ -3577,9 +3577,7 @@
       "publishedAt": "2026-11-04T00:00:00+11:00",
       "deadline": "2026-12-16T11:30:00+11:00",
       "firstSeen": "2026-11-25T09:59:36.400Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:11086a0432e0cbac",
@@ -3734,7 +3732,9 @@
       "publishedAt": "2026-11-04T00:00:00+11:00",
       "deadline": "2026-12-16T11:30:00+11:00",
       "firstSeen": "2026-11-04T04:18:43.302Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "marchespublics-nc:b7k-3529",
@@ -3801,9 +3801,7 @@
       "publishedAt": "2026-11-03T00:00:00+11:00",
       "deadline": "2026-12-04T11:30:00+11:00",
       "firstSeen": "2026-11-25T09:59:36.400Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:75755af1b9dd4991",
@@ -3965,7 +3963,9 @@
       "publishedAt": "2026-11-03T00:00:00+11:00",
       "deadline": "2026-12-04T11:30:00+11:00",
       "firstSeen": "2026-11-03T09:01:58.780Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:9f81abd8d57f2664",
@@ -4363,9 +4363,7 @@
       "publishedAt": "2026-10-29T00:00:00+11:00",
       "deadline": "2026-11-30T11:30:00+11:00",
       "firstSeen": "2026-10-31T07:52:11.593Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:a4658fca5a77e806",
@@ -4522,7 +4520,9 @@
       "publishedAt": "2026-10-29T00:00:00+11:00",
       "deadline": "2026-11-30T11:30:00+11:00",
       "firstSeen": "2026-10-28T20:45:59.607Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "cps-appels-offres:5d422038263b1bbb",
@@ -5076,9 +5076,7 @@
       "publishedAt": "2026-10-27T00:00:00+11:00",
       "deadline": "2026-11-13T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:547d967ccbc3eb7c",
@@ -5106,7 +5104,9 @@
       "publishedAt": "2026-10-27T00:00:00+11:00",
       "deadline": "2026-11-13T11:30:00+11:00",
       "firstSeen": "2026-10-27T09:31:40.127Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "marchespublics-nc:f4g-3513",
@@ -5254,9 +5254,7 @@
       "publishedAt": "2026-10-26T00:00:00+11:00",
       "deadline": "2026-11-27T12:00:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:5345a1321bb8bb94",
@@ -5579,7 +5577,9 @@
       "publishedAt": "2026-10-26T00:00:00+11:00",
       "deadline": "2026-11-27T12:00:00+11:00",
       "firstSeen": "2026-10-26T09:36:24.941Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:3028726b618f9e5e",
@@ -7051,9 +7051,7 @@
       "publishedAt": "2026-10-19T00:00:00+11:00",
       "deadline": "2026-11-19T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:b9e9b4bcacf76660",
@@ -7066,9 +7064,7 @@
       "publishedAt": "2026-10-19T00:00:00+11:00",
       "deadline": "2026-11-19T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:6ff8943a7497b0f4",
@@ -7081,7 +7077,9 @@
       "publishedAt": "2026-10-19T00:00:00+11:00",
       "deadline": "2026-11-19T11:30:00+11:00",
       "firstSeen": "2026-10-20T11:36:09.310Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:96ccc65e283785b7",
@@ -7094,7 +7092,9 @@
       "publishedAt": "2026-10-19T00:00:00+11:00",
       "deadline": "2026-11-19T11:30:00+11:00",
       "firstSeen": "2026-10-20T11:36:09.310Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:e31e4dbb116c9c4f",
@@ -8856,9 +8856,7 @@
       "publishedAt": "2026-10-09T00:00:00+11:00",
       "deadline": "2026-11-09T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:9065ee55ae4e5aa7",
@@ -8871,7 +8869,9 @@
       "publishedAt": "2026-10-09T00:00:00+11:00",
       "deadline": "2026-11-09T11:30:00+11:00",
       "firstSeen": "2026-10-15T11:28:39.532Z",
-      "lastSeen": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T02:58:54.309Z",
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:6d576d8732dcbd30",
@@ -10322,9 +10322,7 @@
       "publishedAt": "2026-10-06T00:00:00+11:00",
       "deadline": "2026-10-19T17:00:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "ifap:784ad6dbde1cbd1f",
@@ -10388,7 +10386,9 @@
           "from": "Cahier des charges Goodies WF Tourisme validé",
           "to": "Renouvellement des goodies - Wallis et Futuna Tourisme"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "lnc-legales:daca1fa2e614d919",
@@ -10924,9 +10924,7 @@
       "publishedAt": "2026-10-01T00:00:00+11:00",
       "deadline": "2026-10-28T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:ec7a2150beba5107",
@@ -10949,7 +10947,9 @@
           "from": "Avis de marché",
           "to": "Entretien des espaces verts de l''Administration supérieure à Mata-Utu, du Vatarium et de 2 logements administratifs"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "mont-dore:40cd6918cd72c655",
@@ -12013,9 +12013,7 @@
       "publishedAt": "2026-09-21T00:00:00+11:00",
       "deadline": "2026-10-27T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "marches-publics-etat:g6l-3070779",
@@ -12102,7 +12100,9 @@
           "from": "avis de marché - enrochements Wallis",
           "to": "Réalisation de protections littorales par enrochements sur l'île de Wallis"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "province-sud-avis:e46b9baadc7764c3",
@@ -12971,9 +12971,7 @@
       "publishedAt": "2026-09-10T00:00:00+11:00",
       "deadline": "2026-10-06T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:f9c06028212b7b27",
@@ -12996,7 +12994,9 @@
           "from": "Avis de marché - MOE Vailepo",
           "to": "MOE - CET Vailepo"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "marchespublics-nc:h5j-3386",
@@ -13263,9 +13263,7 @@
       "publishedAt": "2026-09-02T00:00:00+11:00",
       "deadline": "2026-09-22T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:119c65c4c19769dc",
@@ -13288,7 +13286,9 @@
           "from": "Avis de marché",
           "to": "Réaménagement du parking visiteur de l'aéroport de Hihifo - Wallis"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "province-sud-avis:491d745db49a4da2",
@@ -13311,9 +13311,7 @@
       "publishedAt": "2026-09-01T00:00:00+11:00",
       "deadline": "2026-08-27T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:13768110ed993587",
@@ -13335,7 +13333,9 @@
           "from": "Note signée",
           "to": "Déploiement de bornes digitales de comptage et d'information touristique - PROLONGATION"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "ville-dumbea:afcfde8f80e5f90a",
@@ -13662,9 +13662,7 @@
       "publishedAt": "2026-08-06T00:00:00+11:00",
       "deadline": "2026-08-19T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:dd4bf29fa4a3301c",
@@ -13687,7 +13685,9 @@
           "from": "SEAC-Avis rectificatif marché - prolongation",
           "to": "Accord-cadre à bons de commandes pour l'entretien et le nettoyage des bureaux du service d’État de l'Aviation civile des îles Wallis et Futuna-prolongation"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "province-sud-avis:793b0d088cbf2307",
@@ -13772,9 +13772,7 @@
       "publishedAt": "2026-08-03T00:00:00+11:00",
       "deadline": "2026-08-28T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:dd365a2c50a707c3",
@@ -13787,9 +13785,7 @@
       "publishedAt": "2026-08-03T00:00:00+11:00",
       "deadline": "2026-08-28T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "haut-commissariat-pf:a205d4770a030d58",
@@ -13824,7 +13820,9 @@
           "from": "Avis de marché",
           "to": "Réalisation de 6 extensions du réseau d'adduction d'eau potable sur l'île de Wallis"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:e1f562aab4de21e9",
@@ -13847,7 +13845,9 @@
           "from": "avis de marché",
           "to": "Réalisation de peintures d'étanchéité sur les couvertures des locaux techniques et de peintures de ravalement sur tous les voiles extérieurs des réservoirs en béton armé de Wallis"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "port-papeete:7b935ec8a6e4cf06",
@@ -14075,9 +14075,7 @@
       "publishedAt": "2026-07-21T00:00:00+11:00",
       "deadline": "2026-08-17T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:552162112953ae3e",
@@ -14100,7 +14098,9 @@
           "from": "Avis de marché",
           "to": "Fourniture et installation d'un stockage d'énergie photovoltaïque au service territorial de l'environnement de Wallis"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:606959d89a0c942d",
@@ -14113,9 +14113,7 @@
       "publishedAt": "2026-07-17T00:00:00+11:00",
       "deadline": "2026-08-10T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:bf17db6e703abcc5",
@@ -14138,7 +14136,9 @@
           "from": "avis de marché",
           "to": "Mission d'assistance à maîtrise d'ouvrage (AMO) pour la réalisation d'une alvéole de stockage des déchets ménagers au Centre d'Enfouissement Technique de Moasa sur l'île de Futuna"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:08e746ba9221947f",
@@ -14150,9 +14150,7 @@
       "publishedAt": "2026-07-10T00:00:00+11:00",
       "deadline": "2026-07-27T00:00:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:bddfa0c710e8c7bc",
@@ -14164,9 +14162,7 @@
       "publishedAt": "2026-07-10T00:00:00+11:00",
       "deadline": "2026-07-27T00:00:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:79b53f6661b565f4",
@@ -14188,7 +14184,9 @@
           "from": "Avis de consultation 2026 - website WF Tourisme",
           "to": "Refonte technique et fonctionnelle du site internet touristique de Wallis et Futuna"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:6e032abb8a60e064",
@@ -14224,7 +14222,9 @@
           "from": "Avis de consultation 2026 - cartes touristiques WF",
           "to": "Refonte et mise à jour des cartes touristiques de Wallis et Futuna"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:a3405ff34d1709bd",
@@ -14277,9 +14277,7 @@
       "publishedAt": "2026-07-07T00:00:00+11:00",
       "deadline": "2026-08-07T11:30:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "haut-commissariat-pf:b51936fe7c049407",
@@ -14314,7 +14312,9 @@
           "from": "Avis de marché",
           "to": "Réaménagement du parking visiteur de l’aéroport de Hihifo - Wallis"
         }
-      ]
+      ],
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "ifap:62ddb93f12cae8ad",
@@ -14860,9 +14860,7 @@
       "url": "https://www.wallis-et-futuna.gouv.fr/index.php/contenu/telechargement/15133/124353/file/20260520-tx%20renov%20LPA.pdf",
       "publishedAt": "2026-05-20T00:00:00+11:00",
       "firstSeen": "2026-10-27T20:23:35.561Z",
-      "lastSeen": "2026-11-25T09:59:36.400Z",
-      "gone": true,
-      "goneAt": "2026-11-26T02:58:54.309Z"
+      "lastSeen": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "wallis-futuna:205ce8807dc8b54a",
@@ -14874,7 +14872,9 @@
       "publishedAt": "2026-05-20T00:00:00+11:00",
       "firstSeen": "2026-10-08T09:13:01.667Z",
       "lastSeen": "2026-11-26T02:58:54.309Z",
-      "seed": true
+      "seed": true,
+      "gone": true,
+      "goneAt": "2026-11-26T22:29:30.818Z"
     },
     {
       "id": "province-sud-appels-a-projets:91f69c3fab953631",
